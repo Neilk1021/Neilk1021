@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi, I'm Neil.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilk1021&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## About me
+- High school programmer / Game developer
+- Favorite Project: N-Body simulator
+- Current Project: College ROI Calculator
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilk1021&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Neilk1021/Neilk1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
