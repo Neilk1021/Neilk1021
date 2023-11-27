@@ -1,7 +1,7 @@
 ### Hi, I'm Neil.
 
 ## About me
-- High school programmer / Game developer
+- High school C++ programmer / Game developer
 - Favorite Project: N-Body simulator
 - Current Project: College ROI Calculator
 
