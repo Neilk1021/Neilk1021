@@ -5,8 +5,8 @@
 - Favorite Project: N-Body simulator
 - Current Project: College ROI Calculator
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neilk1021&theme=tokyonight&rank_icon=github&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilk1021&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neilk1021&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilk1021&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Neilk1021/Neilk1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
