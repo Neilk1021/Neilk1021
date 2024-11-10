@@ -1,9 +1,8 @@
 ### Hi, I'm Neil.
 
 ## About me
-- High school C++ programmer / Game developer
+- C++ programmer / Game developer from UCI
 - Favorite Project: N-Body simulator
-- Current Project: College ROI Calculator
 - Many commits are under the user "neilketteringham, " so there is a gap between January and March.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neilk1021&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
