@@ -3,7 +3,7 @@
 ## About me
 - C++ programmer / Game developer from UCI
 - Favorite Project: N-Body simulator
-- Many commits are under the user "neilketteringham, " so there is a gap between January and March.
+- Many commits are under the user "neilketteringham" and thus not shown.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neilk1021&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilk1021&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
