@@ -6,7 +6,7 @@
 - Many commits are under the user "neilketteringham" and thus not shown.
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Neilk1021&rank_icon=github&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=Neilk1021&rank_icon=github&include_all_commits=true&theme=shadow_blue)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Neilk1021&layout=compact&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=Neilk1021&layout=compact&langs_count=4&theme=shadow_blue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Neilk1021&layout=donut&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=Neilk1021&layout=donut&langs_count=4&theme=shadow_blue)
 <!--
 **Neilk1021/Neilk1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
